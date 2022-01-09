@@ -23,17 +23,19 @@
                     <tr class="whitespace-nowrap">
                         <td class="px-6 py-4">
                             <div class="text-sm text-gray-900">
-                                1
+                                Tabla de
                             </div>
                         </td>
                         <td class="px-6 py-4">
                             <div class="text-sm text-gray-900">
-                                2
+                                Ejemplo
                             </div>
                         </td>
                         <td class="px-6 py-4">
                             <a href="#"
-                                class="px-4 py-2 text-sm text-white bg-blue-400 rounded">Editar</a>
+                                class="px-4 py-2 text-sm text-white bg-blue-400 rounded">
+                                Editar
+                            </a>
                         </td>
                         <td class="px-6 py-4">
                             <form action="#" method="POST">

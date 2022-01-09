@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="{{'/css/app.css'}}">
         <script src="{{'/js/app.js'}}"></script>
-        <title>miLaravel</title>
+        <title>Plantilla Laravel</title>
     </head>
     <body class="antialiased">
         <div class="container mx-auto">
